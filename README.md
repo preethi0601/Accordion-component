@@ -2,5 +2,5 @@
 
 Design and BoilerPlate from [Frontend Mentor](https://www.frontendmentor.io)
 
-View [here](accordion-component-weld.vercel.app)
+View [here](https://preethi0601.github.io/Accordion-component/)
 
